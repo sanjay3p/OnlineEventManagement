@@ -1,0 +1,13 @@
+.Img{
+    border-radius: 50%; 
+    width: 100px; 
+    height: 100px;
+}
+
+.con{
+    height: 14vh;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
